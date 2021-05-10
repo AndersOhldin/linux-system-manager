@@ -1,4 +1,4 @@
-A bash-script that offers an interactable UI aimed to manage a Linux system, including but not limited to: 
+A bash-script that creates an UI aimed at managing a Linux system, including but not limited to: 
 - List active users with UID less than 2000
 - Modify an existing user
 - Create a group based on input
