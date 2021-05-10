@@ -1,0 +1,14 @@
+A bash-script that offers an interactable UI aimed to manage a Linux system, including: 
+- List active users with UID less than 2000
+- View all the details listed in /etc/passwd file about specific user
+- Modify an existing user
+- Remove a user
+- Create a group based on input
+- List all groups (not system groups)
+- List all users in a group
+- Add a user to an existing group
+- Remove a users association to an existing group
+- Add or remove a user from a group
+- Delete a group based on input
+- Change a folder's read, write, execute, setuid, setgid or sticky bit permissions
+- Install/uninstall/start/stop ssh
